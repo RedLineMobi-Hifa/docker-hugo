@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Feb 2015 13:21:27 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>consequently.org</title>
+      <link>http://localhost:1313/showcase/consequently/</link>
+      <pubDate>Wed, 11 Feb 2015 13:21:27 +1100</pubDate>
+      
+      <guid>http://localhost:1313/showcase/consequently/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting Overview</title>
+      <link>http://localhost:1313/troubleshooting/overview/</link>
+      <pubDate>Sun, 18 Jan 2015 02:41:52 -0700</pubDate>
+      
+      <guid>http://localhost:1313/troubleshooting/overview/</guid>
+      <description>&lt;p&gt;Got stuck?  Worry not!  Chances are other users have encountered
+the exact same problem as you have, brought it up for
+&lt;a href=&#34;http://discuss.gohugo.io/&#34;&gt;discussion&lt;/a&gt;, and have likely found a solution
+through the collective wisdom of our vibrant Hugo community!&lt;/p&gt;
+
+&lt;p&gt;Here are some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/troubleshooting/strange-eof-error/&#34;&gt;&lt;code&gt;hugo new&lt;/code&gt; aborts with cryptic EOF error&lt;/a&gt; (affects v0.12 and lower)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/troubleshooting/categories-with-accented-characters/&#34;&gt;Categories with accented characters inaccessible&lt;/a&gt; (affects Mac OS&amp;nbsp;X users)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/t/deployment-workflow/90/15&#34;&gt;My CSS files aren&amp;rsquo;t loaded!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/t/image-gallery/594&#34;&gt;How do I include an image gallery on my website?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;hellip; And a lot more!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;100%&#34; height=&#34;auto&#34; src=&#34;http://www.youtube.com/embed/c8fJIRNChmU&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Indeed, you may find many questions and solutions
+to problems in our &lt;a href=&#34;http://discuss.gohugo.io/&#34;&gt;discussion forum&lt;/a&gt;,
+and you may find the &lt;a href=&#34;http://discuss.gohugo.io/category/support&#34;&gt;support&lt;/a&gt;
+and &lt;a href=&#34;http://discuss.gohugo.io/category/tips-tricks&#34;&gt;tips &amp;amp; tricks&lt;/a&gt;
+categories particularly helpful.&lt;/p&gt;
+
+&lt;p&gt;Can&amp;rsquo;t find anything?  Please write on the forum and post your questions
+and comments!  Sometimes, your feedback may lead to the discovery of
+existing bugs in the code or in the documentation, and may even spur
+the interest of adding new features to the next Hugo version, improving
+Hugo for everybody!  (Thank you!)  See you on the forum!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>thehome.dk</title>
+      <link>http://localhost:1313/showcase/thehome/</link>
+      <pubDate>Sat, 27 Dec 2014 20:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/showcase/thehome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stou.dk</title>
+      <link>http://localhost:1313/showcase/stou/</link>
+      <pubDate>Sun, 23 Nov 2014 01:28:16 +0700</pubDate>
+      
+      <guid>http://localhost:1313/showcase/stou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Launchcode Software Studios</title>
+      <link>http://localhost:1313/showcase/launchcode5/</link>
+      <pubDate>Sat, 01 Nov 2014 07:32:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/showcase/launchcode5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ucsb</title>
+      <link>http://localhost:1313/showcase/ucsb/</link>
+      <pubDate>Tue, 26 Aug 2014 14:12:55 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/ucsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>authenticgeek</title>
+      <link>http://localhost:1313/showcase/nickoneill/</link>
+      <pubDate>Tue, 26 Aug 2014 12:15:48 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/nickoneill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vurt.co.uk</title>
+      <link>http://localhost:1313/showcase/vurt.co/</link>
+      <pubDate>Tue, 26 Aug 2014 12:09:39 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/vurt.co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michaelwhatcott</title>
+      <link>http://localhost:1313/showcase/michaelwhatcott/</link>
+      <pubDate>Tue, 26 Aug 2014 11:47:11 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/michaelwhatcott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devmonk</title>
+      <link>http://localhost:1313/showcase/devmonk/</link>
+      <pubDate>Tue, 26 Aug 2014 11:31:02 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/devmonk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peteraba</title>
+      <link>http://localhost:1313/showcase/peteraba/</link>
+      <pubDate>Tue, 26 Aug 2014 11:30:57 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/peteraba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青砾 (chingli)</title>
+      <link>http://localhost:1313/showcase/chingli/</link>
+      <pubDate>Tue, 26 Aug 2014 11:20:02 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/chingli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danmux</title>
+      <link>http://localhost:1313/showcase/danmux/</link>
+      <pubDate>Tue, 26 Aug 2014 10:55:23 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/danmux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ninya.io</title>
+      <link>http://localhost:1313/showcase/ninya.io/</link>
+      <pubDate>Tue, 26 Aug 2014 09:47:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/ninya.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tendermint</title>
+      <link>http://localhost:1313/showcase/tendermint/</link>
+      <pubDate>Tue, 26 Aug 2014 09:34:42 -0400</pubDate>
+      
+      <guid>http://localhost:1313/showcase/tendermint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
